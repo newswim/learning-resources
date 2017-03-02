@@ -38,7 +38,7 @@ references](https://tympanus.net/codrops/css_reference/) on the web.
 - [Github Pages](https://pages.github.com/) will publish and host and static webpage, for free.
 - [Jekyll](https://jekyllrb.com/) is their recommended site generator, but there are literally [dozens to choose 
 from](https://github.com/myles/awesome-static-generators).
-
+- [Learn git in 15 minutes](https://try.github.io/levels/1/challenges/1) - In-browser tutorial with octopi.
 
 ### JavaScript
 
