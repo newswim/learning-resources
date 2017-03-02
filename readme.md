@@ -22,7 +22,7 @@ you're trying to solve.
 - [Enki](https://www.enki.com/) is a fairly new, cross-platform (iOS, Android) application that provides a gamefied, work-out style of learning.
 - [Free Code Camp](https://www.freecodecamp.com/) has been around for a few years now and has become one of _the best_ resources for self-paced learning.
 The topics scale from very-beginner to quite advanced (eventually building full-scale applications).
-
+- [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 ### HTML / CSS
 
@@ -31,6 +31,14 @@ The topics scale from very-beginner to quite advanced (eventually building full-
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) is another in-depth, multi-part tutorial from MDN.
 - [Codrops](https://tympanus.net/codrops/) is a FANTASTIC resource with neat examples and one of the best [CSS 
 references](https://tympanus.net/codrops/css_reference/) on the web.
+
+### How to Save Things and create Free Websites
+
+- [Learn Git](http://think-like-a-git.net/) to let you use **Source Control** -- _never_ lose anything, create sophisticated commit trees, _win_.
+- [Github Pages](https://pages.github.com/) will publish and host and static webpage, for free.
+- [Jekyll](https://jekyllrb.com/) is their recommended site generator, but there are literally [dozens to choose 
+from](https://github.com/myles/awesome-static-generators).
+
 
 ### JavaScript
 
@@ -42,9 +50,11 @@ _I guarantee it_ :dizzy:.
 - [Speaking JavaScript](http://speakingjs.com/) - Very thorough book from a great author
 - [Eloquent JavaScript](http://eloquentjavascript.net/) - A good mid++ level book, easier to read but the material can be dense
 
+
 ### Blogs and other resources
 
 - [PonyFoo](https://ponyfoo.com/)
 - [2ality](http://www.2ality.com/)
 - [Jake Archibald's blog](https://jakearchibald.com)
+
 
