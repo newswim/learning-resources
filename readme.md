@@ -32,6 +32,14 @@ The topics scale from very-beginner to quite advanced (eventually building full-
 - [Codrops](https://tympanus.net/codrops/) is a FANTASTIC resource with neat examples and one of the best [CSS 
 references](https://tympanus.net/codrops/css_reference/) on the web.
 
+### CSS-only
+
+- [CSSReference.io](https://cssreference.io/)
+- [Learn CSS](https://web.dev/learn/css/) -- Great new (as of 2021) resource from Google.
+
+### Version control
+- [Oh-my-git](https://blinry.itch.io/oh-my-git) is a gamified tutorial on using git.
+
 ### How to Save Things and create Free Websites
 
 - [Learn Git](http://think-like-a-git.net/) to let you use **Source Control** -- _never_ lose anything, create sophisticated commit trees, _win_.
